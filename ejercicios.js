@@ -72,8 +72,6 @@ console.log(operaciones(1, 2, '-'))
 
 
 
-
-
 const aritmetica = (num1, num2, tipoOperacion) => {
 
     let resultado;
